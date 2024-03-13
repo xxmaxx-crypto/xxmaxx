@@ -1,7 +1,6 @@
 {
   "name": "teamax",
   "version": "1.1.4",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
